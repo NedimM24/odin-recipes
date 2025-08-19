@@ -34,6 +34,7 @@ img {
 }
 
 .Description {
+    
     border: 15px solid orange;
     margin: 30px;
     background-color: lightgray;
@@ -41,6 +42,7 @@ img {
 }
 
 .Ingredients {
+    
     border: 15px solid orange;
     margin: 30px;
     background-color: lightgray;
@@ -48,10 +50,37 @@ img {
 }
 
 .Steps {
+    
     border: 15px solid orange;
     margin: 30px;
     background-color: lightgray;
    
 }
+
+.BurgerDes {
+    
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+.BurgerIng {
+    
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+.BurgerSte {
+    
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+
 
 
