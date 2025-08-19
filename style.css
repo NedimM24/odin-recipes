@@ -1,6 +1,10 @@
 * {
-    background-color: rgb(171, 167, 167);
+    
     box-sizing: border-box;
+}
+
+p {
+    background-color: lightgrey;
 }
 
 h1 {
@@ -9,17 +13,45 @@ h1 {
     font-family: sans-serif;
     text-align: center;
     margin: 30px;
-    background-color: aliceblue;
+    background-color: lightgray;
+    
     border: 15px solid orange;
     padding: 15px;
     ;
 }
 
-ul, li, a {
-    background-color: aliceblue;
-}
-
-ul {
+.MainList {
     border: 15px solid orange;
     margin: 30px;
+    background-color: lightgray;
 }
+
+img {
+    display: block;
+    margin: 0px auto;
+    border: 15px solid orange;
+    background-color: lightgray;
+}
+
+.Description {
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+.Ingredients {
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+.Steps {
+    border: 15px solid orange;
+    margin: 30px;
+    background-color: lightgray;
+   
+}
+
+
